@@ -1,2 +1,7 @@
-# New-York-Housing-Dashboard
-The New York Housing Dashboard provides an interactive analysis of housing listings across different cities and property types in New York. Built in Excel using power query, pivot tables, multiple charts, and slicer. This dashboard helps identify housing trends, price distribution, property sizes, and broker performance.
+# New-York-Housing-Dashboard using MS Excel
+Objective:
+The objective of this project is to analyze and visualize the New York housing market using an interactive dashboard. It focuses on identifying key trends in property types, average prices, locality-wise distribution, and broker performance. The goal is to provide clear insights for buyers, sellers, and investors to make informed real estate decisions.
+
+Dataset used: 
+
+
