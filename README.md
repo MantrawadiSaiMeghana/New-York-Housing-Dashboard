@@ -3,8 +3,8 @@
 The objective of this project is to analyze and visualize the New York housing market using an interactive dashboard. It focuses on identifying key trends in property types, average prices, locality-wise distribution, and broker performance. The goal is to provide clear insights for buyers, sellers, and investors to make informed real estate decisions.
 
 ##  Dataset used 
--<a href="https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market">Kaggle dataset</a>
--<a href ="https://github.com/MantrawadiSaiMeghana/New-York-Housing-Dashboard/blob/main/newyork%20housing%20dashboard.xlsx">Cleaned dataset</a>
+- <a href="https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market">Kaggle dataset</a>
+- <a href ="https://github.com/MantrawadiSaiMeghana/New-York-Housing-Dashboard/blob/main/newyork%20housing%20dashboard.xlsx">Cleaned dataset</a>
 
 ##  Questions
 - How many housing listings are available in New York?
